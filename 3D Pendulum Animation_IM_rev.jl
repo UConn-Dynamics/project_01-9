@@ -51,8 +51,8 @@ begin
 	g = 9.81 #m/s^2
 
 	# Speed Setting
-	omega_slow = 4 #rad/s
-	omega_fast = 4 #rad/s
+	omega_slow = 5 #rad/s
+	omega_fast = 10 #rad/s
 	omega = omega_slow
 	
 	# Initial Conditions
